@@ -1,0 +1,6 @@
+* **Primärfarbe:** #243C74
+* **Basiston:** #F5F5F3
+* **Akzentfarbe:** #C1272D
+* **Textfarbe:** #1C1C1E
+
+
